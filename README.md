@@ -1,6 +1,6 @@
  
 # Random Message Generator 
-+ Creates random jokes
++ Creates random horroscope messages
 ## Technologies
 Javascript
 Node.js
